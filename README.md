@@ -11,7 +11,9 @@ User Input: Users can input a stock ticker symbol to view predictions and visual
 Streamlit Web App: An interactive and easy-to-use web interface for stock price prediction and data visualization.
 
 **Files**
+
 stock_price.ipynb: Jupyter notebook that contains the ML model training code, along with data preprocessing and model evaluation.
+
 web_stock_price_predictor.py: The main Python script for running the Streamlit web app.
 
 **Project Flow**
